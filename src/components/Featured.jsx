@@ -84,7 +84,7 @@ const Featured = () => {
                 </div>
                 <div className="featured-image">
                     <div className="image">
-                        <img src="/public/logo.png" alt="avatar" />
+                        <img src="/logo.png" alt="avatar" />
                     </div>
                 </div>
                 <div className="scroll-icon-box">
