@@ -15,7 +15,8 @@ export const data = [
     },
     {
         "id": 3,
-        "imageUrl": "/image/Contact Us.JPG",
+        "imageUrl": "Contact-Us.JPG",
+        // "imageUrl": "/image/Contact Us.JPG",
         "demoLink": "https://contactus-page-react.netlify.app",
         "title": "Contact Us Page",
         "language": "React Js"
