@@ -99,10 +99,11 @@ const Header = () => {
                             <a href="#contact" className="nav-link">Contact</a>
                             <div className="circle"></div>
                         </li>
+                        <li className="nav_list">
+                            <a href="#work" className="nav-link">Work</a>
+                            <div className="circle"></div>
+                        </li>
                     </ul>
-                </div>
-                <div className="nav-button">
-                    <a href="../Portfolio.html"><button className='btn'>Portfolio</button></a>
                 </div>
                 <div className="nav-menu-btn">
                     <i className="uil uil-bars" onClick={myMenuFunction}></i>
