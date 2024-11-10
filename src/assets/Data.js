@@ -34,5 +34,19 @@ export const data = [
         "demoLink": "https://foody-zone-1-xyf6.onrender.com/",
         "title": "Foody Zone",
         "language": "React Js"
+    },
+    {
+        "id": 6,
+        "imageUrl": "GSAP-Project.png",
+        "demoLink": "https://codepen.io/jayramoliya/pen/ExqGjGL",
+        "title": "GSAP Scroll Effects",
+        "language": "GSAP"
+    },
+    {
+        "id": 7,
+        "imageUrl": "GSAP-Project.png",
+        "demoLink": "https://codepen.io/jayramoliya/pen/OJKrVKM",
+        "title": "GSAP Text Scroll Effects",
+        "language": "GSAP"
     }
 ]
