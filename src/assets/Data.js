@@ -37,13 +37,20 @@ export const data = [
     },
     {
         "id": 6,
+        "imageUrl": "Tic-Tac-Toe.JPG",
+        "demoLink": "https://tictactoe-react-page.netlify.app/",
+        "title": "Tic Tac Toe",
+        "language": "React Js"
+    },
+    {
+        "id": 7,
         "imageUrl": "GSAP-Project.png",
         "demoLink": "https://codepen.io/jayramoliya/pen/ExqGjGL",
         "title": "GSAP Scroll Effects",
         "language": "GSAP"
     },
     {
-        "id": 7,
+        "id": 8,
         "imageUrl": "GSAP-Project.png",
         "demoLink": "https://codepen.io/jayramoliya/pen/OJKrVKM",
         "title": "GSAP Text Scroll Effects",

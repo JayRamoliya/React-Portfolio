@@ -96,11 +96,11 @@ const Header = () => {
                             <div className="circle"></div>
                         </li>
                         <li className="nav_list">
-                            <a href="#contact" className="nav-link">Contact</a>
+                            <a href="#work" className="nav-link">Work</a>
                             <div className="circle"></div>
                         </li>
                         <li className="nav_list">
-                            <a href="#work" className="nav-link">Work</a>
+                            <a href="#contact" className="nav-link">Contact</a>
                             <div className="circle"></div>
                         </li>
                     </ul>
