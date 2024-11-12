@@ -16,7 +16,6 @@ export const data = [
     {
         "id": 3,
         "imageUrl": "Contact-Us.JPG",
-        // "imageUrl": "/image/Contact Us.JPG",
         "demoLink": "https://contactus-page-react.netlify.app",
         "title": "Contact Us Page",
         "language": "React Js"
@@ -55,5 +54,12 @@ export const data = [
         "demoLink": "https://codepen.io/jayramoliya/pen/OJKrVKM",
         "title": "GSAP Text Scroll Effects",
         "language": "GSAP"
+    },
+    {
+        "id": 9,
+        "imageUrl": "CountDown-Timer.JPG",
+        "demoLink": "https://countdowntimer-react-page.netlify.app/",
+        "title": "CountDown Timer",
+        "language": "React Js"
     }
 ]
