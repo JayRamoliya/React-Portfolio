@@ -61,5 +61,12 @@ export const data = [
         "demoLink": "https://countdowntimer-react-page.netlify.app/",
         "title": "CountDown Timer",
         "language": "React Js"
+    },
+    {
+        "id": 9,
+        "imageUrl": "Calculate-your-simple-interest.JPG",
+        "demoLink": "https://simpleinterest-calculate.netlify.app/",
+        "title": "Calculate your Simple Interest",
+        "language": "React Js"
     }
 ]
